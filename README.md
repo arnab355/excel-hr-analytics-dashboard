@@ -24,6 +24,7 @@ The entire solution is built using native Excel tools—including **Pivot Tables
 ## Dashboard Preview
 Here is a preview of the finished dashboard layout:
 
+![HR Dashboard Preview](dashboard-preview.png.png)
 
 
 ---
